@@ -30,7 +30,7 @@ A modern personal portfolio website built with HTML, CSS, and JavaScript.
 
 * Email: [tojimahmudovoybek2006@gmail.com](mailto:tojimahmudovoybek2006@gmail.com)
 * LinkedIn: linkedin.com/in/oybek-tojimakhmudov
-* GitHub: github.com/oybekcodes
+
 
 ## Author
 
